@@ -55,12 +55,12 @@ A retired Biotechnologist currently pivoting trajectory career towards data scie
 ## 📁 Highlighted Repositories
 
 ### 🔸 [Data-Science-Project](https://github.com/manarifz/MSc-Project-2-Data-Science)
-A collection of supervised and unsupervised ML models built using real datasets. Includes classification, regression, clustering, and reinforcement learning examples.
+Employ data science techniques by performing hypothesis testing, correlation analysis, finding trends patterns to solve problems.
 
 ### 🔸 [Data-Management-Project](https://github.com/manarifz/Assignment-1-Data-Management)
 Explores large-scale data processing using Hadoop, Spark, and Hive. Contains working examples, sandbox environments, and cloud integrations.
 
-### 🔸 [Unstructured-Data-Analysis]
+### 🔸 [Unstructured-Data-Analysis](https://github.com/manarifz/Unstructured-Data-Analytics)
 Analyzing text, audio, and images using various NLP and multimedia data mining techniques.
 
 <!-- Reach me -->
