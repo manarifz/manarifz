@@ -6,7 +6,7 @@
 <!-- About Me -->
 ## 🌱 About Me
 
-A retired Biotechnologist currently pivoting trajectory career towards data science field to solve real world problems. Currently working as Data Scientist niched in Geospatial Information System (GIS).
+A retired Biotechnologist currently pivoting trajectory career towards data science field to solve real world problems. Currently working as Data Scientist niched in Geospatial Information System (GIS) at Department of Statistics Malaysia.
 
 <!-- Education Background -->
 ## 🎓 Education Background
@@ -18,11 +18,13 @@ A retired Biotechnologist currently pivoting trajectory career towards data scie
 <!-- Professional Interest-->
 ## 💼 Professional Interests
 
+- Earth Observation (EO)
+- Geospatial Information System (GIS)
+- Unstructured Data (Multi-source Satellite Images)  
+- Finance Technology (FinTech)
 - Business Intelligence & Data Analytics  
 - Data Engineering Tools (Spark, Hadoop, Hive, SQL)  
 - Machine Learning (scikit-learn, PyTorch, TensorFlow)  
-- Unstructured Data (Text, Audio, Image)  
-- Visualization and storytelling with data
 
 <!-- [tech stack](https://github.com/ileriayo/markdown-badges) -->
 # 💻  Tech Stack
@@ -60,7 +62,7 @@ Employ data science techniques by performing hypothesis testing, correlation ana
 ### 🔸 [Data-Management-Project](https://github.com/manarifz/Assignment-1-Data-Management)
 Explores large-scale data processing using Hadoop, Spark, and Hive. Contains working examples, sandbox environments, and cloud integrations.
 
-### 🔸 [Unstructured-Data-Analysis](https://github.com/manarifz/Unstructured-Data-Analytics)
+### 🔸 [Unstructured-Data-Analytics-Project](https://github.com/manarifz/Unstructured-Data-Analytics)
 Analyzing text, audio, and images using various NLP and multimedia data mining techniques.
 
 <!-- Reach me -->
